@@ -1,0 +1,29 @@
+# Kickstarting with Excel
+
+## Overview of Project
+The project was set up to perform data analysis on several thousand crowdfunding projects to uncover any hidden trends. 
+
+### Purpose 
+The purpose of the analyses was to understand how different campaigns fared in relation to their launch dates and their funding goals.
+
+## Analysis and Challenges
+There were many data points in which various functions needed to be used to make a qualitative analysis.
+
+### Analysis of Outcomes Based on Launch Date
+During the month of April, there was a higher success rate for plays.
+### Analysis of Outcomes Based on Goals
+The higher the goal became the lower the success rate it had except for the goals between 35,000 and 45,000. 
+### Challenges and Difficulties Encountered
+The use of a clustered bar graph could have illustrated a better visualization of the data. The analyses that were made could have been much more defined to make stronger points with the data.  
+## Results
+The visual aids allowed us to understand where our biggest opportunities are to make better decisions and utilize resources efficiently. 
+
+- What are two conclusions you can draw about the Outcomes based on the Launch Date? There was a higher rate of success during the month of April. There was little correlation between the launch date and failed outcomes, on average there was about 41. 
+
+- What can you conclude about the Outcomes based on Goals? There were zero canceled plays based on goals. As goals became higher there was a downward trend in the success rate. Although goals between 35,000 and 45,000 had an upward tick of success.   
+
+- What are some limitations of this dataset? The limitations are that we did not look at the deadline date. We could have looked at the correlation between the length of the campaign and the outcome.
+
+
+- What are some other possible tables and/or graphs that we could create? Using a clustered bar graph could give us a better understanding of the data.
+
